@@ -1,0 +1,127 @@
+Course,Section,Instructor,Days,Time,Room
+IT 115,1,"Walter, Lisa",MW,11:00 - 12:50,OU 213D
+IT 140,1,"Matsuda, Pat",MW,11:00 - 11:50,CVA 151
+IT 140,2 Lab,,,,ONLINE
+IT 150,1,"Higgins, Cheri",MW,10:00 - 10:50,CVA 151
+IT 150,2 Lab,,MW,11:00 - 11:50,OU 132
+IT 150,3 Lab,,MW,12:00 - 12:50,OU 132
+IT 150,4 Lab,,MW,1:00 - 1:50,OU 132
+IT 150,5 Lab,,MW,2:00 - 2:50,OU 132
+IT 150,6 Lab,,MW,3:00 - 3:50,OU 132
+IT 150,7 Lab,,MW,4:00 - 4:50,OU 132
+IT 150,8 Lab,,MW,5:00 - 5:50,OU 132
+IT 150,9 Lab,,TR,9:00 - 9:50,OU 132
+IT 150,10 Lab,,TR,10:00 - 10:50,OU 132
+IT 150,11,"Higgins, Cheri",TR,10:00 - 10:50,STV 101
+IT 150,12 Lab,,TR,11:00 - 11:50,OU 132
+IT 150,13 Lab,,TR,12:00 - 12:50,OU 132
+IT 150,14 Lab,,TR,1:00 - 1:50,OU 132
+IT 150,15 Lab,,TR,2:00 - 2:50,OU 132
+IT 150,16 Lab,,TR,3:00 - 3:50,OU 132
+IT 150,17 Lab,,TR,4:00 - 4:50,OU 132
+IT 150,18 Lab,,TR,5:00 - 5:50,OU 132
+IT 150,19 Lab,,WF,9:00 - 9:50,OU 132
+IT 150,20 Lab,,WF,10:00 - 10:50,OU 132
+IT 164,1,"Twitchell, Doug",MW,12:35 - 1:50,OU 213E
+IT 165,1,"Higgins, Cheri",MW,11:00 - 12:15,OU 213E
+IT 165,2 Lab,,T,9:00 - 10:50,OU 133
+IT 165,3 Lab,,T,11:00 - 12:50,OU 133
+IT 168,1,"Suh, Kyoungwon",MW,2:00 - 3:15,STV 105
+IT 168,2 Lab,,T,1:00 - 2:50,OU 133
+IT 168,3 Lab,,T,3:00 - 4:50,OU 133
+IT 168,4,"Matsuda, Pat",MW,5:00 - 6:15,STV 105
+IT 168,5 Lab,,T,7:00 - 8:50,OU 133
+IT 168,6 Lab,,W,3:00 - 4:50,OU 133
+IT 168,7,"Matsuda, Pat",TR,9:35 - 10:50,STV 105
+IT 168,8 Lab,,W,9:00 - 10:50,OU 133
+IT 168,9 Lab,,W,11:00 - 12:50,OU 133
+IT 168,10,"Suh, Kyoungwon",TR,11:00 - 12:15,STV 105
+IT 168,11 Lab,,W,1:00 - 2:50,OU 133
+IT 168,12 Lab,,R,9:00 - 10:50,OU 133
+IT 178,1,"Sikolia, David",MW,2:00 - 3:15,OU 213E
+IT 178,2,"Sikolia, David",MW,6:30 - 7:45,OU 213E
+IT 178,3,"Holbrook, Cathy",TR,11:00 - 12:15,OU 213D
+IT 179,1,"Li, Chung-Chih",MW,9:35 - 10:50,STV 139A
+IT 179,2,"Li, Chung-Chih",MW,11:00 - 12:15,STV 139A
+IT 179,3,"Li, Chung-Chih",TR,2:00 - 3:15,STV 139A
+IT 191,1,"Parmenter, Tal",T,5:00 - 5:50,STV 101
+IT 214,1,"Jerome, Sherry",MW,2:00 - 3:15,WIH 123
+IT 225,1,"Thomas, Todd",TR,12:35 - 1:50,STV 108
+IT 226,1,"Shesh, Amit",MW,11:00 - 12:15,STV 105
+IT 254,1,"Mahatanankoon, Winn",TR,2:00 - 3:15,STV 105
+IT 254,2,"Plumadore, Dean",TR,6:30 - 7:45,STV 108
+IT 261,1,"Mahatanankoon, Winn",TR,9:35 - 10:50,STV 108
+IT 261,2,"Mahatanankoon, Winn",TR,11:00 - 12:15,STV 108
+IT 261,3,"Javadi, Elahe",TR,5:00 - 6:15,STV 108
+IT 262,1,"Javadi, Elahe",MW,2:00 - 3:15,STV 108
+IT 262,2,"Javadi, Elahe",MW,5:00 - 6:15,STV 108
+IT 272,1,"Wallace, Dave",MW,1:00 - 2:50,OU 213D
+IT 275,1,"Plickebaum, Terry",MW,6:30 - 8:20,STV 108
+IT 279,1,"Shesh, Amit",TR,11:00 - 12:15,STV 139A
+IT 287,1,,,,
+IT 291,1,,,,
+IT 299,1,,,,
+IT 328,1,"Li, Chung-Chih",MW,2:00 - 3:15,STV 104
+IT 328.05,1 Grad,"Li, Chung-Chih",MW,2:00 - 3:15,STV 104
+IT 330,1 Grad,,MW,6:30 - 7:45,STV 104
+IT 330.05,1 Grad,,MW,6:30 - 7:45,STV 104
+IT 340,1,"Califf, Mary Elaine",MW,9:35 - 10:50,STV 105
+IT 340.05,1 Grad,"Califf, Mary Elaine",MW,9:35 - 10:50,STV 105
+IT 341,1,"Shesh, Amit",MW,6:30 - 7:45,STV 105
+IT 341.05,1 Grad,"Shesh, Amit",MW,6:30 - 7:45,STV 105
+IT 350,1,"Sikolia, David",MW,3:35 - 4:50,STV 108
+IT 350.05,1 Grad,"Sikolia, David",MW,3:35 - 4:50,STV 108
+IT 351,1,"Twitchell, Doug",MW,3:35 - 4:50,STV 104
+IT 351.05,1 Grad,"Twitchell, Doug",MW,3:35 - 4:50,STV 104
+IT 353,1,"Lim, Billy",TR,2:00 - 3:15,OU 213D
+IT 353,2,"Lim, Billy",TR,5:00 - 6:15,OU 213D
+IT 353.05,1 Grad,"Lim, Billy",TR,2:00 - 3:15,OU 213D
+IT 353.05,2 Grad,"Lim, Billy",TR,5:00 - 6:15,OU 213D
+IT 354,1,"Schaefer, Kevin",TR,2:00 - 3:15,STV 104
+IT 354.05,1 Grad,"Schaefer, Kevin",TR,2:00 - 3:15,STV 104
+IT 357,1,"Sagers, Glen",TR,9:35 - 10:50,STV 139A
+IT 357.05,1 Grad,"Sagers, Glen",TR,9:35 - 10:50,STV 139A
+IT 363,1,"Hosack, Bryan",TR,9:00 - 10:50,OU 213E
+IT 367,1,"Walczynski, Sarah",MW,5:00 - 6:15,OU 213E
+IT 367.05,1 Grad,"Walczynski, Sarah",MW,5:00 - 6:15,OU 213E
+IT 368.10,1 ASP.Net,"Lim, Billy",MW,3:35 - 4:50,OU 213E
+IT 368.17,1 ERP,"Rogers, Lance",M,6:30 - 9:20,OU 213D
+IT 372,1,"Wallace, Dave",MW,3:35 - 4:50,OU 213D
+IT 372.05,1 Grad,"Wallace, Dave",MW,3:35 - 4:50,OU 213D
+IT 375,1,,TR,12:35 - 1:50,STV 139A
+IT 375,2,"Cassels, Lawson",TR,5:00 - 6:15,STV 139A
+IT 375,3,"Qaddour, Jihad",TR,11:00 - 12:15,STV 104
+IT 375.05,1 Grad,,TR,12:35 - 1:50,STV 139A
+IT 375.05,2 Grad,"Cassels, Lawson",TR,5:00 - 6:15,STV 139A
+IT 375.05,3 Grad,"Qaddour, Jihad",TR,11:00 - 12:15,STV 104
+IT 377,1,"Qaddour, Jihad",TR,12:35 - 1:50,OU 213E
+IT 377,2,"Qaddour, Jihad",TR,5:00 - 6:15,STV 105
+IT 377.05,1 Grad,"Qaddour, Jihad",TR,12:35 - 1:50,OU 213E
+IT 377.05,2 Grad,"Qaddour, Jihad",TR,5:00 - 6:15,STV 105
+IT 378,1,"Hosack, Bryan",TR,11:00 - 12:15,OU 213E
+IT 378,2,"Jia, Ronnie",TR,2:00 - 3:15,OU 213E
+IT 378,3,"Jia, Ronnie",TR,5:00 - 6:15,OU 133
+IT 378.05,1 Grad,"Hosack, Bryan",TR,11:00 - 12:15,OU 213E
+IT 378.05,2 Grad,"Jia, Ronnie",TR,2:00 - 3:15,OU 213E
+IT 378.05,3,"Jia, Ronnie",TR,5:00 - 6:15,OU 133
+IT 379,1,"Sagers, Glen",TR,6:30 - 7:45,OU 213E
+IT 381,1,"Zitkus, Doug",MW,5:00 - 6:15,OU 213D
+IT 381.05,1 Grad,"Zitkus, Doug",MW,5:00 - 6:15,OU 213D
+IT 383,1,"Suh, Kyoungwon",TR,6:30 - 7:45,STV 139A
+IT 383.05,1 Grad,"Suh, Kyoungwon",TR,6:30 - 7:45,STV 139A
+IT 391,1,"Gyires, Tibor",TR,5:00 - 6:15,STV 104
+IT 398,1,"Parmenter, Tal",,,
+IT 400,1 Grad,,,,
+IT 432,1 Grad,"Jia, Ronnie",TR,6:30 - 7:45,STV 104
+IT 450,1 Grad,"Twitchell, Doug",MW,5:00 - 6:15,STV 104
+IT 463,1 Grad,"Johnson, Becca",TR,5:00 - 6:15,OU 213E
+IT 468,1 Grad,"Chintalcheru, Naresh",R,6:30 - 9:20,OU 213D
+IT 477,1 Grad,,TR,6:30 - 7:45,STV 105
+IT 478,1 Grad,"Wolf, James",MW,6:30 - 7:45,STV 139A
+IT 485.02,1 Grad,"Lim, Billy",MW,3:35 - 4:50,OU 213E
+IT 495,1 Grad,,M,6:30 - 9:20,OU 133
+IT 495,2 Grad,"Gyires, Tibor",,,
+IT 496,1 Grad,"Wolf, James",MW,2:00 - 3:15,STV 139A
+IT 497,1 Grad,"Wolf, James",MW,5:00 - 6:15,STV 139A
+IT 498,1 Grad,,,,
+IT 499,1 Grad,,,,
